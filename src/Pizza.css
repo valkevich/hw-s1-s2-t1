@@ -1,0 +1,30 @@
+* {
+    list-style: none;
+}
+
+.app-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ingridients {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+    height: 400px;
+    background-color: coral;
+    font-size: 30px;
+}
+
+.pizza {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+    height: 400px;
+    margin-right: 100px;
+    background-color: darkkhaki;
+    font-size: 30px;
+}
